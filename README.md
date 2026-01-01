@@ -1,5 +1,47 @@
-<h1 align="center">Hi 👋, I'm Dharmik</h1>
+<h1 align="center">
+  <span style="font-size: 3.2rem; font-weight: 900;">Hi 👋, I'm <strong>Dharmik</strong></span>
+</h1>
 <h3 align="center">A young and passionate Data Analyst</h3>
+
+<h1 align="center">Hey 👋 What's Up?</h1>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/dharmik-dhameliya/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+</div>
+
+###
 
 <p align="center">
   <!-- Replace YOUR_ILLUSTRATION_IMAGE_URL with a nice data / analytics illustration or GIF -->
@@ -15,8 +57,8 @@
 - 🧠 Interested in **business intelligence, dashboards, and data-driven decision making**
 - 🌱 Currently learning and practicing:
   - **Python for Data** – pandas, NumPy, Matplotlib/Seaborn
-  - **SQL** – writing queries, joins, aggregations, performance basics
-  - **Data Visualization & Reporting** – (Power BI / Tableau / Excel – adjust based on what you use)
+  - **SQL** – joins, aggregations, subqueries, window functions (beginner–intermediate)
+  - **Data Visualization & Reporting** – (Power BI / Tableau / Excel – update to what you actually use)
 - 🤝 Open to collaborating on **data analysis projects, dashboards, and beginner ML projects**
 - 🎯 Goal: Start my career as a **Junior Data Analyst / BI Analyst**
 
@@ -33,7 +75,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<!-- You can remove any icons that you don't actually use, and keep only the ones relevant to data analysis / your skills -->
+<!-- Keep the icons that match your skills; you can remove any you don't actually use -->
 
 <p align="left">
 
@@ -65,7 +107,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
 
-  <!-- Web Basics & Backend (if you use them) -->
+  <!-- Web Basics & Backend -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -102,7 +144,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
 
-  <!-- Mobile (only if relevant for you) -->
+  <!-- Mobile (only if relevant) -->
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
@@ -114,10 +156,25 @@
 
 ---
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=YOUR_GITHUB_USERNAME&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
 ## 📂 Featured Data Projects (to be added)
 
-- 🧹 **Data Cleaning & EDA Project** – (e.g., cleaning a public dataset and exploring insights with Python + pandas)
-- 📊 **Dashboard / BI Project** – (e.g., building an interactive dashboard in Power BI / Tableau)
-- 📈 **SQL Analytics Project** – (e.g., writing complex queries on a sample database to answer business questions)
+- 🧹 **Data Cleaning & EDA Project** – e.g., cleaning a public dataset and exploring insights with Python + pandas
+- 📊 **Dashboard / BI Project** – e.g., building an interactive dashboard in Power BI / Tableau
+- 📈 **SQL Analytics Project** – e.g., writing complex queries to answer business questions
 
 > As I continue my journey in data analytics, I’ll be uploading more projects that showcase my skills in **data wrangling, visualization, and analysis**.
