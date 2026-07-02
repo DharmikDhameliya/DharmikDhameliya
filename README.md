@@ -1,240 +1,139 @@
-content = """# MASTER_PROFILE.md
-# Source of Truth — All IT Directions
+content = r"""<h1 align="center">
+  <span style="font-size: 3.2rem; font-weight: 900;">Hi 👋, I'm <strong>Dharmik</strong></span>
+</h1>
+<h3 align="center">Computer Programming & Analysis Student | Seneca Polytechnic</h3>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="60" alt="express logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="60" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="60" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" height="60" alt="androidstudio logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/dharmik-dhameliya/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+</div>
 
 ---
 
-## Personal Information
-- Full Name: Dharmik Dhameliya
-- Location: North York, Ontario, Canada
-- Phone: +1 437-838-3800
-- Email: ddhameliya05@gmail.com
-- LinkedIn: https://linkedin.com/in/dharmik-dhameliya
-- GitHub: https://github.com/DharmikDhameliya
-- Work Authorization: Full Canadian Work Authorization (No sponsorship required)
-- Availability: Immediate / Open to Full-Time, Contract, Co-op, Internship
+## 💡 About Me
+
+- 🎓 Final-year **Computer Programming & Analysis (Advanced Diploma)** student at **Seneca Polytechnic**
+- 🛠️ IT Service Desk experience — technical support, troubleshooting, and ticketing
+- 💻 Building full-stack web apps, REST APIs, Android apps, and computer vision projects
+- 🤝 Team collaborator — experienced with Git, pull requests, and Agile/Scrum workflows
+- 🌱 Currently exploring **Cloud (AWS)**, **Docker**, and **CI/CD pipelines**
+- 🎯 Open to opportunities in Software Development, IT Support, Data, and Cloud
 
 ---
 
-## Education
-**Seneca Polytechnic — North York, Ontario**
-Ontario College Advanced Diploma — Computer Programming and Analysis (CPA)
-Expected Graduation: April 2026
+## 📂 Featured Projects
 
-### Relevant Coursework
-- Object-Oriented Programming (Java, C++)
-- Data Structures & Algorithms
-- Database Design & SQL (MySQL, Oracle)
-- Web Development (HTML5, CSS3, JavaScript, Node.js)
-- Software Engineering & SDLC
-- Software Testing & Quality Assurance
-- Systems Analysis & Design
-- Operating Systems (Linux, Windows)
-- Networking Fundamentals
-- REST APIs & Web Services
-- Agile Development & Project Management
-- AI & Prompt Engineering
-- Computer Vision & Image Processing
-- Mobile Application Development (Android/Kotlin)
+### 🔧 [Fragments](https://github.com/DharmikDhameliya/fragments)
+> Cloud-based REST API for managing user data fragments
+- Built with **Node.js + Express.js**
+- Supports multiple content types with full CRUD operations
+- Authentication, structured error handling, and API best practices
+- Tested with **Postman**, deployed on cloud infrastructure
 
----
+###
 
-## Technical Skills
+### 🖥️ [Fragments UI](https://github.com/DharmikDhameliya/fragments-ui)
+> React frontend for the Fragments API
+- Built with **React.js**
+- Consumes authenticated REST APIs
+- Responsive UI with user authentication flow
 
-### Programming Languages
-- Java, JavaScript, TypeScript, Python, C, C++, Kotlin, SQL, HTML5, CSS3
+###
 
-### Frameworks & Libraries
-- Node.js, Express.js, React, pandas, NumPy, OpenCV
+### 🤝 [Hamdel Web App](https://github.com/hamdel-app/hamdel-web)
+> Team-built project management web application
+- Collaborated using **Git, pull requests, and Agile/Scrum**
+- Contributed features and bug fixes in a multi-developer team
 
-### Databases
-- MySQL, Oracle SQL, SQLite, basic PostgreSQL
+###
 
-### Cloud & DevOps
-- AWS (S3, EC2, basics), Docker (basic), GitHub Actions (basic CI/CD), Linux CLI
+### 📱 Android Application (Kotlin)
+> Native Android app built with Kotlin
+- Activity lifecycle, navigation, and local data handling
+- Followed Android development best practices
 
-### Data & Analytics
-- SQL queries, joins, aggregations, subqueries
-- Python (pandas, NumPy, Matplotlib, Seaborn)
-- Data cleaning, EDA, basic visualization
-- Excel (formulas, pivot tables, basic charts)
+###
 
-### IT Support & Systems
-- Windows OS troubleshooting (10/11)
-- Linux command line
-- Hardware & software diagnostics
-- Network troubleshooting (TCP/IP, DNS, DHCP basics)
-- Active Directory (basic user account management)
-- Ticketing systems & incident management
-- Remote desktop support
-- Microsoft Office 365
-
-### Tools & Platforms
-- Git, GitHub, VS Code, IntelliJ IDEA, Android Studio
-- Postman, Docker, Figma (basic)
-- Microsoft Office 365
-
-### Concepts
-- REST APIs, OOP, MVC, SDLC, Agile/Scrum
-- Software Testing & Debugging
-- Version Control (Git)
-- CI/CD fundamentals
-- Data Analysis & Visualization
-- Computer Vision & Image Processing
-- Mobile Development (Android)
+### 👁️ Computer Vision Final Project
+> Python-based computer vision application
+- Applied image processing and CV techniques using **OpenCV**
+- Built as a final academic project
 
 ---
 
-## Professional Experience
+## 📊 GitHub Stats
 
-### IT Service Desk Technician | Seneca Polytechnic
-September 2024 – April 2026 | North York, Ontario
-- Provided Tier 1 technical support to students, faculty, and staff (in-person and remote)
-- Diagnosed and resolved hardware, software, network connectivity, and account access issues
-- Managed and tracked support tickets using a ticketing system, ensuring timely resolution
-- Assisted with Windows OS, Microsoft Office 365, and campus application troubleshooting
-- Performed basic Active Directory tasks including password resets and account management
-- Documented issues and resolutions to build a knowledge base for recurring problems
-- Maintained a high level of customer satisfaction in a fast-paced support environment
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DharmikDhameliya&show_icons=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharmikDhameliya&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
 
-### Customer Service Associate | Metro
-- Delivered consistent customer service in a high-volume retail environment
-- Handled transactions accurately and resolved customer concerns professionally
-- Collaborated with team members to maintain efficient store operations
-- Demonstrated reliability, punctuality, and strong communication skills
+###
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=DharmikDhameliya&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+</div>
 
-## Projects
+###
 
-### Fragments — Cloud REST API (Backend)
-GitHub: https://github.com/DharmikDhameliya/fragments
-- Designed and built a RESTful API using Node.js and Express.js
-- Implemented user authentication and support for multiple content/data types
-- Applied structured error handling, logging, and API best practices
-- Tested endpoints using Postman; deployed on cloud infrastructure (AWS)
-- Relevant for: Backend Developer, Cloud Developer, API Developer, Software Engineer
-
-### Fragments UI — React Frontend
-GitHub: https://github.com/DharmikDhameliya/fragments-ui
-- Built a responsive React.js web application consuming the Fragments REST API
-- Implemented user authentication flow and dynamic UI components
-- Integrated frontend with backend API using secure HTTP requests
-- Relevant for: Frontend Developer, Full-Stack Developer, Web Developer
-
-### Hamdel — Team Web Application
-GitHub: https://github.com/hamdel-app/hamdel-web
-- Collaborated in a multi-developer team using Git, pull requests, and Agile/Scrum
-- Contributed features and bug fixes to a project management web application
-- Practiced code reviews, branching strategies, and team communication
-- Relevant for: Software Developer, Full-Stack Developer, Agile Team roles
-
-### Android Application — Kotlin
-- Developed a native Android application using Kotlin and Android Studio
-- Implemented activity lifecycle, navigation components, and local data storage
-- Followed Android development best practices and Material Design guidelines
-- Relevant for: Android Developer, Mobile Developer
-
-### Computer Vision Final Project — Python
-- Built a Python-based computer vision application using OpenCV
-- Applied image processing, feature detection, and analysis techniques
-- Demonstrated applied AI/ML concepts in a practical academic project
-- Relevant for: Data Analyst, AI/ML roles, Python Developer
-
----
-
-## Soft Skills
-- Communication (written and verbal)
-- Customer Service & Client-Facing Support
-- Problem Solving & Analytical Thinking
-- Teamwork & Collaboration
-- Adaptability & Fast Learning
-- Time Management & Prioritization
-- Attention to Detail
-- Documentation & Reporting
-
----
-
-## Job Targets (All Directions)
-
-### IT Support & Operations
-- IT Support Technician
-- Help Desk Analyst (Tier 1 / Tier 2)
-- Desktop Support Technician
-- IT Technician
-- Systems Support Analyst
-
-### Software Development
-- Junior Software Developer
-- Junior Backend Developer
-- Junior Full-Stack Developer
-- Junior Web Developer
-- Android Developer (Junior)
-- New Graduate Software Engineer
-
-### Data & Analytics
-- Junior Data Analyst
-- Business Intelligence Analyst
-- SQL Analyst
-- Reporting Analyst
-- Data Technician
-
-### Cloud & Infrastructure
-- Junior Cloud Practitioner
-- Cloud Support Associate
-- DevOps Junior
-- Junior Systems Administrator
-
-### General IT
-- IT Coordinator
-- Technical Analyst
-- Application Support Analyst
-- QA Tester / Junior QA Analyst
-
----
-
-## Resume Tailoring Notes
-
-### For IT Support / Help Desk Roles
-- Lead with IT Service Desk experience
-- Emphasize: ticketing, troubleshooting, Windows, Office 365, Active Directory, customer service
-- Include: networking basics, hardware/software diagnostics
-- Downplay: complex coding projects (mention briefly as "additional technical background")
-
-### For Software Developer Roles
-- Lead with Fragments, Fragments UI, Hamdel projects
-- Emphasize: Node.js, React, REST APIs, Git, Agile, OOP
-- Include: Kotlin Android app, computer vision
-- Downplay: IT support (keep as one line)
-
-### For Data Analyst Roles
-- Lead with: SQL coursework, Python (pandas, NumPy), Computer Vision project
-- Emphasize: data analysis, querying, Excel, visualization
-- Include: database design coursework, analytical problem solving
-- Downplay: frontend/mobile projects
-
-### For Cloud / DevOps Roles
-- Lead with: Fragments API (AWS deployment), Docker basics, GitHub Actions, Linux
-- Emphasize: cloud infrastructure, CI/CD, REST APIs, scripting
-- Include: Linux coursework, systems knowledge
-
-### For QA / Testing Roles
-- Lead with: Software Testing coursework, debugging experience
-- Emphasize: test planning, defect tracking, attention to detail
-- Include: IT Service Desk (troubleshooting = testing mindset)
-
----
-
-## Do Not Forget
-- Always include GitHub and LinkedIn links
-- Always include North York, Ontario location
-- Always include Canadian Work Authorization
-- Always include Seneca Polytechnic (full name, not abbreviation)
-- Always include IT Service Desk role (relevant for almost every IT job)
-- Keep resume to ONE PAGE
-- Output in LaTeX using Jake Gutierrez template
-- Never fabricate certifications, employment, or technologies not listed here
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 """
 
-with open('MASTER_PROFILE.md', 'w', encoding='utf-8') as f:
+with open('README.md', 'w', encoding='utf-8') as f:
     f.write(content)
-print('MASTER_PROFILE.md updated successfully')
+print('README.md created')
